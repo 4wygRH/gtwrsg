@@ -25,6 +25,591 @@
       "minWeighted": 83,
       "seats": 4
     },
+    {
+      "university": "جامعة تبوك",
+      "major": "النظم الغذائية المستدامة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 77.37,
+      "seats": 1
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "علوم الحاسب",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.82,
+      "seats": 1
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "الأحياء",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.73,
+      "seats": 10
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "نظم المعلومات الإدارية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.12,
+      "seats": 7
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "التمويل والاستثمار",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 77.42,
+      "seats": 21
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "المحاسبة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 76.96,
+      "seats": 21
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "الأحياء",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.73,
+      "seats": 10
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "نظم المعلومات الإدارية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.12,
+      "seats": 7
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "التمويل والاستثمار",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 77.42,
+      "seats": 21
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "تقنية المعلومات",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80.10,
+      "seats": 8
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "علوم الحاسب",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.82,
+      "seats": 1
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "النظم الغذائية المستدامة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 77.37,
+      "seats": 1
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "المسار الهندسي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 84.21,
+      "seats": 3
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "القانون",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80.36,
+      "seats": 14
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "تقنية المعلومات",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80.10,
+      "seats": 8
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "علوم الحاسب",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.82,
+      "seats": 1
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "الأحياء",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.73,
+      "seats": 10
+    },
+    {
+      "university": "جامعة تبوك",
+      "major": "نظم المعلومات الإدارية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.12,
+      "seats": 7
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علوم التمريض",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 85.80,
+      "seats": 2
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علم البيانات",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 84.27,
+      "seats": 1
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "المختبرات الطبية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.51,
+      "seats": 4
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "المختبرات الطبية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.22,
+      "seats": 7
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "إدارة الأعمال",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.32,
+      "seats": 4
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "الإدارة المالية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 76.43,
+      "seats": 8
+    },
+     {
+      "university": "جامعة شقراء",
+      "major": "علم البيانات",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 84.27,
+      "seats": 1
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "المختبرات الطبية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.51,
+      "seats": 4
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "المختبرات الطبية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.22,
+      "seats": 7
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علوم الحاسب",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 86.30,
+      "seats": 1
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علوم التمريض",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 85.80,
+      "seats": 2
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "إدارة الأعمال",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 79.32,
+      "seats": 4
+    },
+     {
+      "university": "جامعة شقراء",
+      "major": "الذكاء الاصطناعي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 87.16,
+      "seats": 1
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علوم التمريض",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 86.44,
+      "seats": 4
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علوم الحاسب",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 86.30,
+      "seats": 1
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علوم التمريض",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 85.80,
+      "seats": 2
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "علم البيانات",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 84.27,
+      "seats": 1
+    },
+    {
+      "university": "جامعة شقراء",
+      "major": "المختبرات الطبية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.51,
+      "seats": 4
+    },
+    {
+      "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "major": "الإدارة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 90.53,
+      "seats": 1
+    },
+    {
+      "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "major": "إدارة الموارد البشرية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 90.11,
+      "seats": 4
+    },
+    {
+      "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "major": "الاقتصاد",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 90.02,
+      "seats": 1
+    },
+    {
+      "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "major": "التسويق",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 89.30,
+      "seats": 3
+    },
+    {
+      "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "major": "التمريض",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 89.21,
+      "seats": 9
+    },
+    {
+      "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "major": "القانون",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 89.14,
+      "seats": 3
+    },
+    {
+      "university": "جامعة جازان",
+      "major": "التمريض",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 86.60,
+      "seats": 2
+    },
+    {
+      "university": "جامعة جازان",
+      "major": "هندسة عامة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 85.33,
+      "seats": 3
+    },
+    {
+      "university": "جامعة جازان",
+      "major": "التصميم الداخلي",
+      "degree": "دبلوم متوسط",
+      "term": "الفصل الأول",
+      "minWeighted": 83.52,
+      "seats": 5
+    },
+    {
+      "university": "جامعة جازان",
+      "major": "اللغة الإنجليزية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.46,
+      "seats": 1
+    },
+    {
+      "university": "جامعة جازان",
+      "major": "الكيمياء الصناعية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.30,
+      "seats": 1
+    },
+    {
+      "university": "جامعة جازان",
+      "major": "العلوم الاكتوارية والرياضيات المالية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 81.20,
+      "seats": 3
+    },
+    {
+      "university": "جامعة جازان",
+      "major": "تكنولوجيا حماية البيئة",
+      "degree": "دبلوم متوسط",
+      "term": "الفصل الأول",
+      "minWeighted": 79.06,
+      "seats": 1
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "السنة الأولى المشتركة - المسار الهندسي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 87.18,
+      "seats": 3
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "السنة الأولى المشتركة - المسار الصحي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 85.92,
+      "seats": 24
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "السنة الأولى المشتركة - المسار الهندسي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 85.00,
+      "seats": 9
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "السنة الأولى المشتركة - المسار العلمي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 84.80,
+      "seats": 11
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "المالية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.80,
+      "seats": 7
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "نظم المعلومات الإدارية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.70,
+      "seats": 2
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "الإدارة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 82.73,
+      "seats": 8
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "المحاسبة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 82.60,
+      "seats": 8
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "الكيمياء التطبيقية",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 82.60,
+      "seats": 10
+    },
+    {
+      "university": "جامعة حائل",
+      "major": "التسويق",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 82.48,
+      "seats": 8
+    },
+     {
+      "major": "التمريض",
+      "city": "بريدة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 89.37,
+      "seats": 2
+    },
+    {
+      "major": "المختبرات الطبية",
+      "city": "بريدة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 88.30,
+      "seats": 1
+    },
+    {
+      "major": "التغذية الإكلينيكية",
+      "city": "الرس",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 86.29,
+      "seats": 2
+    },
+    {
+      "major": "اقتصاد وإدارة",
+      "city": "الرس",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83.56,
+      "seats": 1
+    },
+    {
+      "major": "مساعد طبيب أسنان",
+      "city": "بريدة",
+      "degree": "دبلوم متوسط",
+      "term": "الفصل الأول",
+      "minWeighted": 81.98,
+      "seats": 2
+    },
+    {
+      "major": "علم النفس",
+      "city": "بريدة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 81.63,
+      "seats": 2
+    },
+    {
+      "major": "التعقيم الطبي",
+      "city": "بريدة",
+      "degree": "دبلوم متوسط",
+      "term": "الفصل الأول",
+      "minWeighted": 81.52,
+      "seats": 1
+    },
+    {
+      "major": "اقتصاد وإدارة",
+      "city": "الرس",
+      "degree": "بكالوريوس",
+      "term": "الفصل الثاني",
+      "minWeighted": 81.37,
+      "seats": 4
+    },
+    {
+      "major": "الكيمياء",
+      "city": "بريدة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80.64,
+      "seats": 2
+    },
+    {
+      "major": "الرياضيات الاكتوارية",
+      "city": "الرس",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80.59,
+      "seats": 1
+    },
+    {
+      "major": "الأحياء",
+      "city": "عنيزة",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80.50,
+      "seats": 2
+    },
+    {
+      "major": "فني رعاية مرضى",
+      "city": "الرس",
+      "degree": "دبلوم متوسط",
+      "term": "الفصل الثاني",
+      "minWeighted": 80.46,
+      "seats": 1
+    },
+     {
+      "university": "جامعة الملك خالد",
+      "major": "التسويق",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80,
+      "seats": 64
+    },
+    {
+      "university": "جامعة الملك خالد",
+      "major": "علم النفس (أخصائي نفسي)",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 80,
+      "seats": 67
+    },
+    
      {
       "university": "جامعة شقراء",
       "major": "تكنولوجيا حماية البيئة",
