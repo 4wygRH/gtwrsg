@@ -17,6 +17,19 @@
       "minWeighted": 82.02,
       "seats": 3
     },
+    {     "university": "جامعة الجوف", 
+      "major": "المسار الصحي سكاكا",   
+      "term": "الفصل الأول",  
+      "degree": "بكالوريوس",    
+      "minWeighted": 85,    
+      "seats": 1   }, 
+
+  {     "university": "جامعة الجوف",
+    "major": "المسار الصحي القريات",    
+    "term": "الفصل الأول",    
+    "degree": "بكالوريوس",  
+    "minWeighted": 83,   
+    "seats": 7   }  ,
     {
     "university": "جامعة الباحة",
     "major": "القانون",
