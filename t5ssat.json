@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10 أغسطس 2026 - 3:00 ص",
+  "lastUpdated": "10 أغسطس 2026 - 11:00 ص",
   "universities": [
     {
       "university": "جامعة الحدود الشمالية",
@@ -25,6 +25,78 @@
       "minWeighted": 83,
       "seats": 4
     },
+    {
+  "university": "جامعة الطائف",
+  "major": "إدارة الأعمال",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 80,
+  "seats": 8
+},
+{
+  "university": "جامعة الطائف",
+  "major": "الرياضيات",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 79,
+  "seats": 4
+},
+{
+  "university": "جامعة الطائف",
+  "major": "اللغة العربية",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 78,
+  "seats": 8
+},
+{
+  "university": "جامعة نجران",
+  "major": "التمريض",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 87,
+  "seats": 5
+},
+{
+  "university": "جامعة نجران",
+  "major": "دكتور صيدلي",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 85,
+  "seats": 1
+},
+{
+  "university": "جامعة نجران",
+  "major": "العلوم الإشعاعية",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 84,
+  "seats": 4
+},
+{
+  "university": "جامعة نجران",
+  "major": "علوم الحاسبات",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 84,
+  "seats": 1
+},
+{
+  "university": "جامعة نجران",
+  "major": "علم النفس",
+  "term": "الفصل الثاني",
+  "degree": "بكالوريوس",
+  "minWeighted": 83,
+  "seats": 5
+},
+{
+  "university": "جامعة نجران",
+  "major": "المحاسبة",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 83,
+  "seats": 4
+},
     {
   "university": "جامعة الجوف",
   "major": "مسار لغة إنجليزية علمي مشترك القريات",
