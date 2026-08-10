@@ -17,6 +17,23 @@
       "minWeighted": 82.02,
       "seats": 3
     },
+     {
+      "university": "جامعة حفر الباطن",
+      "major": "المسار الهندسي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 83,
+      "seats": 4
+    },
+     {
+      "university": "جامعة حفر الباطن",
+      "major": "المسار الصحي",
+      "degree": "بكالوريوس",
+      "term": "الفصل الأول",
+      "minWeighted": 84,
+      "seats": 9
+    },
+    
     {
       "university": "جامعة بيشة",
       "major": "اللغة الإنجليزية",
