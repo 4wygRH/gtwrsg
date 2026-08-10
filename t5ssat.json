@@ -17,6 +17,239 @@
       "minWeighted": 82.02,
       "seats": 3
     },
+    {
+    "university": "جامعة الباحة",
+    "major": "الهندسة المدنية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الذكاء الاصطناعي",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "إدارة الأعمال",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "المحاسبة",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "تقنية الهندسة الكهربائية",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "السنة الأولى المشتركة للكليات الصحية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الذكاء الاصطناعي",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 81,
+    "seats": 2
+  },
+    {
+    "university": "جامعة الباحة",
+    "major": "الهندسة الكهربائية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الهندسة الميكانيكية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 87,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "هندسة الحاسبات",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "نظم المعلومات الإدارية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "القانون",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الهندسة المدنية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الذكاء الاصطناعي",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "إدارة الأعمال",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 6
+  },
+    {
+    "university": "جامعة الجوف",
+    "major": "القانون",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 86,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "الشريعة",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "المسار الصحي",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "المسار الهندسي والعلمي",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 16
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "مسار لغة انجليزية نظري مشترك",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 75,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "مسار الأعمال",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 74,
+    "seats": 11
+  },
+ {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الهندسة",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "هندسة وعلوم الحاسب",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "علوم التمريض",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الهندسة الكهربائية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "هندسة الحاسب",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "علوم التمريض",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "العلوم الصيدلية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "العلوم الطبية التطبيقية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 6
+  },
+    
      {
       "university": "جامعة حفر الباطن",
       "major": "المسار الهندسي",
