@@ -19,6 +19,63 @@
     },
     {
     "university": "جامعة الباحة",
+    "major": "القانون",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 86,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "إدارة الأعمال",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "المحاسبة",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الأحياء الدقيقة",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الذكاء الاصطناعي",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 81,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الاضطرابات السلوكية والانفعالية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الطفولة المبكرة",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 2
+  },
+    
+    {
+    "university": "جامعة الباحة",
     "major": "الهندسة المدنية",
     "term": "الفصل الأول",
     "degree": "بكالوريوس",
