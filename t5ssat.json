@@ -10,6 +10,126 @@
       "seats": 4
     },
     {
+  "university": "جامعة طيبة",
+  "major": "الكيمياء الصناعية",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 79,
+  "seats": 15
+},
+     {
+    "university": "جامعة طيبة",
+    "major": "إدارة السياحة والضيافة",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 22
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "إدارة وتنظيم الفعاليات",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 76,
+    "seats": 19
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "السكرتارية التنفيذية",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 22
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "إدارة قواعد البيانات",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 15
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "التسويق الرقمي",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 16
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "إدارة الموارد البشرية",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 14
+  },
+      {
+    "university": "جامعة طيبة",
+    "major": "الفنون البصرية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 3
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "المتاحف والآثار",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 16
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "اللغة العربية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 8
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "تصميم الأزياء",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 17
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "إدارة أنظمة الشبكات",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 81,
+    "seats": 16
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "المحاسبة المالية",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 81,
+    "seats": 15
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "التسويق الرقمي",
+    "term": "الفصل الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 16
+  },
+    {
+  "university": "جامعة حفر الباطن",
+  "major": "الدراسات الإنسانية",
+  "term": "الفصل الأول",
+  "degree": "بكالوريوس",
+  "minWeighted": 77,
+  "seats": 30
+},
+    {
       "university": "جامعة بيشة",
       "major": "إدارة الموارد البشرية",
       "term": "الفصل الأول",
