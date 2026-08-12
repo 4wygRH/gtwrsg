@@ -41,6 +41,426 @@
     "minWeighted": 89,
     "seats": 10
   },
+     {
+    "university": "جامعة الباحة",
+    "major": "اللغة الانجليزية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الإعلان والاتصال التسويقي",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 13
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الإعلان والاتصال التسويقي",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 13
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "صعوبات التعلم",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 2
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "فنون ومهارات الطهي",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "اللغة الانجليزية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 1
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "تصميم الأزياء",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 6
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الشريعة",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "فنون ومهارات الطهي",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 82,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "اللغة الانجليزية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 1
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الشريعة",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "فنون ومهارات الطهي",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "صعوبات التعلم",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "السكرتارية التنفيذية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 9
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "اللغة الانجليزية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الإعلان والاتصال التسويقي",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 13
+  },
+    {
+    "university": "جامعة الحدود الشمالية",
+    "major": "التسويق",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 3
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "تصميم الأزياء",
+    "city": "صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 6
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الإدارة السياحية",
+    "city": "مدينة جازان",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "التسويق",
+    "city": "مدينة عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 3
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "تصميم الأزياء",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 6
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الشريعة",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الشريعة",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "فنون ومهارات الطهي",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 7
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الآثار والسياحة",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الإدارة السياحية",
+    "city": "مدينة جازان",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الشريعة",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "فنون ومهارات الطهي",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 7
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "فنون ومهارات الطهي",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "اللغة الانجليزية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "التسويق",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 3
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "تصميم الأزياء",
+    "city": "صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 6
+  },
+    {
+    "university": "جامعة الطائف",
+    "major": "السكرتارية التنفيذية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 9
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "محاسبة الضرائب",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "صعوبات التعلم",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "السكرتارية التنفيذية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 9
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الإعلان والاتصال التسويقي",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 13
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "صعوبات التعلم",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "محاسبة الضرائب",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "سلامة الأغذية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "اللغة الانجليزية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الإعلان والاتصال التسويقي",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 13
+  },
   {
     "university": "جامعة طيبة",
     "major": "الذكاء الاصطناعي",
