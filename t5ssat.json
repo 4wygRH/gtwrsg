@@ -21,6 +21,206 @@
     "minWeighted": 89,
     "seats": 8
   },
+    {
+    "university": "جامعة جازان",
+    "major": "تصميم الأزياء",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 6
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "فنون ومهارات الطهي",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 8
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الإدارة السياحية",
+    "city": "مدينة جازان",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "تصميم الأزياء",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 6
+  },
+     {
+    "university": "جامعة الطائف",
+    "major": "إدارة أنظمة الشبكات",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "العلوم البيئية",
+    "city": "مدينة حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الطفولة المبكرة",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 13
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الموارد البشرية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الرياضيات",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "إدارة أنظمة الشبكات",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الرياضيات",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "تصميم الأزياء والنسيج",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الفنون",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 9
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الشريعة",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 8
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "الإعلام المتخصص (الإعلام الرقمي)",
+    "city": "مدينة حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "التاريخ",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 9
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الإدارة المالية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 81,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الدراسات الإسلامية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "الشريعة",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "إدارة السياحة والفعاليات",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 1
+  },
   {
     "university": "جامعة جازان",
     "major": "القانون",
@@ -31,6 +231,177 @@
     "minWeighted": 89,
     "seats": 2
   },
+    {
+    "university": "جامعة تبوك",
+    "major": "المحاسبة",
+    "city": "مدينة تبوك",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 18
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الإدارة السياحية",
+    "city": "محافظة المندق",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 8
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "إدارة المستودعات وسلاسل الإمداد",
+    "city": "محافظة الدوادمي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 76,
+    "seats": 1
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "إدارة الأعمال",
+    "city": "محافظة تيماء",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 23
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "اللغة الانجليزية",
+    "city": "مدينة تبوك",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 5
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "التسويق",
+    "city": "مدينة تبوك",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 24
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "إدارة الموارد البشرية",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "التسويق",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 3
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "علوم الحاسب",
+    "city": "محافظة الوجه",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 15
+  },
+      {
+    "university": "جامعة جازان",
+    "major": "تصميم الأزياء",
+    "city": "محافظة صامطة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 6
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الإدارة السياحية",
+    "city": "مدينة جازان",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 83,
+    "seats": 5
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "إدارة المخاطر والتأمين",
+    "city": "مدينة جازان",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 84,
+    "seats": 6
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الموارد البشرية",
+    "city": "محافظة العارضة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 85,
+    "seats": 1
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الموارد البشرية",
+    "city": "محافظة العارضة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 85,
+    "seats": 1
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الشريعة",
+    "city": "محافظة العارضة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 3
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "التسويق والتجارة الإلكترونية",
+    "city": "مدينة جازان",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 84,
+    "seats": 8
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "إدارة المخاطر والتأمين",
+    "city": "جازان",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 84,
+    "seats": 6
+  },
+    
   {
     "university": "جامعة طيبة",
     "major": "الهندسة الميكانيكية",
@@ -661,6 +1032,186 @@
     "degree": "بكالوريوس",
     "minWeighted": 85,
     "seats": 2
+  },
+     {
+    "university": "جامعة حائل",
+    "major": "تقنية المعلومات",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الإدارة السياحية",
+    "city": "محافظة المندق",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 4
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "إدارة الأعمال",
+    "city": "محافظة تيماء",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 23
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "إدارة المستودعات وسلاسل الإمداد",
+    "city": "محافظة الدوادمي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 76,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الإدارة السياحية",
+    "city": "محافظة المندق",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 77,
+    "seats": 4
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "إدارة الأعمال",
+    "city": "محافظة تيماء",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 23
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "تقنية هندسة التحكم والأتمتة",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 79,
+    "seats": 4
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "تقنية المعلومات",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 78,
+    "seats": 2
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "إدارة المستودعات وسلاسل الإمداد",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 9
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "تقنية هندسة التحكم والأتمتة",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 4
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "تقنية المعلومات",
+    "city": "حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الإدارة السياحية",
+    "city": "محافظة المندق",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 4
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "تصميم الأزياء",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "تقنية الهندسة الكيميائية",
+    "city": "محافظة رفحاء",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 75,
+    "seats": 4
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "إدارة الأعمال",
+    "city": "محافظة تيماء",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 23
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "إدارة المستودعات وسلاسل الإمداد",
+    "city": "محافظة الدوادمي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 76,
+    "seats": 1
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "إدارة المستودعات وسلاسل الإمداد",
+    "city": "محافظة الدوادمي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 76,
+    "seats": 1
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "تصميم الأزياء",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 75,
+    "seats": 5
   },
   {
     "university": "جامعة حفر الباطن",
