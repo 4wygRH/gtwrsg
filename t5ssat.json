@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11 أغسطس 2026 - 6:00 م",
+  "lastUpdated": "12 أغسطس 2026 - 3:00 ص",
   "universities": [
     {
       "university": "جامعة الحدود الشمالية",
@@ -17,6 +17,86 @@
   "minWeighted": 79,
   "seats": 15
 },
+     {
+    "university": "جامعة حفر الباطن",
+    "major": "القانون",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 6
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "إدارة الأعمال",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 10
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "علوم إدارية ومالية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "علوم إدارية ومالية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 9
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "شبكات الحاسب",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 5
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "موارد بشرية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 8
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "شبكات الحاسب",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 11
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "موارد بشرية",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 10
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "العلوم",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 66
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "العلوم والتكنولوجيا",
+    "term": "الفصل الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 29
+  },
      {
     "university": "جامعة طيبة",
     "major": "إدارة السياحة والضيافة",
