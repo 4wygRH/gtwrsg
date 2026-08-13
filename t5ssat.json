@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13 اغسطس - 1:34 ص",
+  "lastUpdated": "13 اغسطس - 9:40 م",
   "universities": [
       {
     "university": "جامعة طيبة",
@@ -10,6 +10,1436 @@
     "degree": "بكالوريوس",
     "minWeighted": 91,
     "seats": 8
+  },
+    {
+    "university": "الجامعة السعودية الإلكترونية",
+    "major": "اللغة الإنجليزية والترجمة",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 60,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الموارد البشرية",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 80,
+    "seats": 1
+  },
+    {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "عام",
+    "city": "محافظة جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "اللغة الانجليزية",
+    "city": "محافظة جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "كلية العلوم البيئية",
+    "city": "محافظة جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "كلية العلوم",
+    "city": "محافظة جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الهندسة",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "هندسة وعلوم الحاسب",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "كلية العلوم الطبية التطبيقية",
+    "city": "جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 87,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "كلية الحقوق",
+    "city": "جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الصحة العامة",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "العلاج الطبيعي",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 3
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 5
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الصحة العامة",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "العلاج الطبيعي",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "المختبرات الطبية",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 3
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 3
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 5
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "تقنيات الأشعة",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "دكتور البصريات",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "مسار لغة إنجليزية علمي مشترك",
+    "city": "محافظة القريات",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 70,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "مسار لغة إنجليزية علمي مشترك",
+    "city": "محافظة القريات",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 70,
+    "seats": 58
+  },
+  {
+    "university": "المؤسسة العامة للتدريب التقني والمهني",
+    "major": "تقنيات محاسبية",
+    "city": "الأحساء",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 58,
+    "seats": 39
+  },
+  {
+    "university": "المؤسسة العامة للتدريب التقني والمهني",
+    "major": "تقنيات الأعمال المكتبية",
+    "city": "الأحساء",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 53,
+    "seats": 63
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "علوم الحاسب",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 39
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الفيزياء الطبية",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "المسار الصحي",
+    "city": "محافظة القريات",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "المسار الهندسي والعلمي",
+    "city": "مدينة سكاكا",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "مسار الأعمال",
+    "city": "سكاكا",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 74,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "مسار لغة إنجليزية علمي مشترك",
+    "city": "طبرجل",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 70,
+    "seats": 26
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "الذكاء الاصطناعي",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 5
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "هندسة التعدين",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 1
+  },
+  {
+    "university": "المؤسسة العامة للتدريب التقني والمهني",
+    "major": "الإرشاد السياحي",
+    "city": "حائل",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 58,
+    "seats": 51
+  },
+  {
+    "university": "المؤسسة العامة للتدريب التقني والمهني",
+    "major": "تقنيات الأعمال المكتبية",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 60,
+    "seats": 31
+  },
+  {
+    "university": "المؤسسة العامة للتدريب التقني والمهني",
+    "major": "تقنية الدعم الفني للحاسب",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 57,
+    "seats": 20
+  },
+  {
+    "university": "المؤسسة العامة للتدريب التقني والمهني",
+    "major": "تقنية الإلكترونيات وأنظمة التحكم",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 57,
+    "seats": 43
+  },
+  {
+    "university": "المؤسسة العامة للتدريب التقني والمهني",
+    "major": "تقنيات محاسبية",
+    "city": "محافظة بيشة",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 49,
+    "seats": 51
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "الأمن السيبراني",
+    "city": "مدينة جازان",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 4
+  },
+  {
+    "university": "جامعة جازان",
+    "major": "تقنية الهندسة الكيميائية",
+    "city": "محافظة بيش",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 72,
+    "seats": 6
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "المسار الصحي",
+    "city": "محافظة حفر الباطن",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "العلوم",
+    "city": "محافظة حفر الباطن",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 73,
+    "seats": 14
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "تقنية شبكات الحاسب",
+    "city": "محافظة حفر الباطن",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "المسار الصحي",
+    "city": "محافظة حفر الباطن",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "كلية إدارة الأعمال",
+    "city": "محافظة حفر الباطن",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 9
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "العلوم الإدارية والمالية",
+    "city": "محافظة الخفجي",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 7
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "تكنولوجيا حماية البيئة",
+    "city": "محافظة القويعية",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 70,
+    "seats": 12
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "تكنولوجيا حماية البيئة",
+    "city": "محافظة شقراء",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 70,
+    "seats": 19
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "تكنولوجيا حماية البيئة",
+    "city": "محافظة عفيف",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم",
+    "minWeighted": 70,
+    "seats": 31
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "المحاسبة والضرائب",
+    "city": "محافظة القويعية",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 70,
+    "seats": 40
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "الإدارة السياحية",
+    "city": "محافظة شقراء",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 70,
+    "seats": 31
+  },
+  {
+    "university": "جامعة شقراء",
+    "major": "إدارة التمويل والاستثمار",
+    "city": "محافظة القويعية",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 70,
+    "seats": 1
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الهندسة الكيميائية",
+    "city": "محافظة ينبع",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 9
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "دكتور الصيدلة",
+    "city": "مدينة المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 87,
+    "seats": 5
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الهندسة الكيميائية",
+    "city": "ينبع",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 9
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "هندسة الاتصالات",
+    "city": "المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 7
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الهندسة المعمارية",
+    "city": "المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 7
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الذكاء الاصطناعي",
+    "city": "محافظة ينبع",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 10
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الأمن السيبراني",
+    "city": "محافظة ينبع",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 8
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "علم البيانات وتحليلها",
+    "city": "مدينة المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 8
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "علم البيانات وتحليلها",
+    "city": "المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 8
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الهندسة الكهربائية",
+    "city": "محافظة ينبع",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 10
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "هندسة الاتصالات",
+    "city": "مدينة المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 7
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الهندسة الميكانيكية",
+    "city": "محافظة ينبع",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 10
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الهندسة المدنية",
+    "city": "المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 90,
+    "seats": 9
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "علوم الحاسب الآلي",
+    "city": "المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 90,
+    "seats": 8
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "العلاج التنفسي",
+    "city": "المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 5
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "هندسة الحاسب الآلي",
+    "city": "المدينة المنورة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "التقنية الحيوية",
+    "city": "محافظة الطائف",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الاقتصاد",
+    "city": "محافظة الطائف",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "كلية العلوم الطبية التطبيقية",
+    "city": "جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 87,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "major": "كلية الحقوق",
+    "city": "جدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "السنة الأولى المشتركة للكليات الصحية",
+    "city": "حائل",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "المحاسبة",
+    "city": "حائل",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "علم النفس",
+    "city": "حائل",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 9
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "العلوم الاكتوارية والرياضيات المالية",
+    "city": "حائل",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "القانون",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "العلوم الصيدلية",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "علوم التمريض",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "القانون",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 86,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الهندسة",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "هندسة وعلوم الحاسب",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة الأعمال",
+    "city": "حوطة بني تميم",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة المستودعات وسلاسل الإمداد",
+    "city": "الخرج",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "العلوم الصيدلية",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "أمن المعلومات",
+    "city": "محافظة الخرج",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 81,
+    "seats": 1
+  },
+    {
+    "university": "جامعة الحدود الشمالية",
+    "major": "إدارة الموارد البشرية",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "التسويق",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "السنة الأولى المشتركة للمسار الصحي",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "كلية الهندسة",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "أحياء تطبيقية",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "نظم المعلومات الإدارية",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "الكيمياء",
+    "city": "عرعر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "اللغة الإنجليزية وآدابها",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة الأعمال",
+    "city": "محافظة حوطة بني تميم",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الموارد البشرية",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة المشاريع السياحية والترفيهية",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "ذكاء الاعمال وتحليل البيانات",
+    "city": "محافظة حوطة بني تميم",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "اللغة الإنجليزية وآدابها",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 80,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة الأعمال",
+    "city": "محافظة حوطة بني تميم",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الموارد البشرية",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة المشاريع السياحية والترفيهية",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "ذكاء الاعمال وتحليل البيانات",
+    "city": "محافظة حوطة بني تميم",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 78,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "ذكاء الاعمال وتحليل البيانات",
+    "city": "محافظة وادي الدواسر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة الأعمال",
+    "city": "حوطة بني تميم",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "الموارد البشرية",
+    "city": "الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة المشاريع السياحية والترفيهية",
+    "city": "محافظة الخرج",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "ذكاء الاعمال وتحليل البيانات",
+    "city": "محافظة حوطة بني تميم",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "ذكاء الاعمال وتحليل البيانات",
+    "city": "محافظة وادي الدواسر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "إدارة المستودعات وسلاسل الإمداد",
+    "city": "محافظة الأفلاج",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 75,
+    "seats": 2
+  },
+     {
+    "university": "جامعة حفر الباطن",
+    "major": "القانون",
+    "city": "حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 6
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "المسار الصحي",
+    "city": "حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "عام",
+    "city": "محافظة حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 7
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "العلوم الإدارية والمالية",
+    "city": "محافظة الخفجي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "القانون",
+    "city": "حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 6
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "المسار الصحي",
+    "city": "حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "العلوم الإدارية والمالية",
+    "city": "محافظة النعيرية",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 6
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "تقنية شبكات الحاسب",
+    "city": "محافظة حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 79,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "التمريض",
+    "city": "سكاكا",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "المختبرات الطبية",
+    "city": "بريدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الملك خالد",
+    "major": "علوم المختبرات الطبية",
+    "city": "أبها",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "المسار الصحي",
+    "city": "محافظة القريات",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "التمريض العام",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 94,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "علوم الأشعة",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 92,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "تقنية المعلومات",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "نظم المعلومات الإدارية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "التقنية الحيوية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 8
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "علوم الغذاء والتغذية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 3
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "تقنية المعلومات",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 2
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "نظم المعلومات الإدارية",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الطائف",
+    "major": "الإدارة",
+    "city": "محافظة الطائف",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 9
+  },
+    {
+    "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+    "major": "السنة التأسيسية للكليات الصحية",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 92,
+    "seats": 2
+  },
+  {
+    "university": "جامعة حائل",
+    "major": "السنة الأولى المشتركة - المسار الصحي",
+    "city": "مدينة حائل",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 86,
+    "seats": 11
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "السنة الأولى المشتركة للكليات الصحية",
+    "city": "مدينة الباحة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 9
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "المسار الصحي",
+    "city": "مدينة سكاكا",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 85,
+    "seats": 1
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "المسار الصحي",
+    "city": "محافظة حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الجوف",
+    "major": "المسار الصحي",
+    "city": "محافظة القريات",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الحدود الشمالية",
+    "major": "السنة الأولى المشتركة - المسار الصحي",
+    "city": "مدينة عرعر",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 6
+  },
+  {
+    "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+    "major": "إنترنت الأشياء",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 94,
+    "seats": 1
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "دكتور الصيدلة",
+    "city": "المدينة المنورة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 93,
+    "seats": 5
+  },
+  {
+    "university": "جامعة طيبة",
+    "major": "الأشعة التشخيصية",
+    "city": "المدينة المنورة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 92,
+    "seats": 1
+  },
+  {
+    "university": "جامعة الأميرة نورة بنت عبدالرحمن",
+    "major": "السنة التأسيسية للكليات الصحية",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 92,
+    "seats": 2
   },
   {
     "university": "جامعة طيبة",
