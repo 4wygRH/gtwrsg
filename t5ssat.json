@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13 اغسطس - 9:40 م",
+  "lastUpdated": "13 اغسطس - 10:00 م",
   "universities": [
       {
     "university": "جامعة طيبة",
@@ -10,6 +10,146 @@
     "degree": "بكالوريوس",
     "minWeighted": 91,
     "seats": 8
+  },
+     {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 3
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 77,
+    "seats": 5
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "العلاج الطبيعي",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "المختبرات الطبية",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "المختبرات الطبية",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الطب البيطري",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 79,
+    "seats": 3
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "دكتور البصريات",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الصحة العامة",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "تقنيات الأشعة",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "دكتور البصريات",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 84,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "الصحة العامة",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "العلاج الطبيعي",
+    "city": "بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 83,
+    "seats": 2
+  },
+     {
+    "university": "جامعة القصيم",
+    "major": "بحوث عمليات",
+    "city": "محافظة الرس",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 76,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "التعقيم الطبي",
+    "city": "مدينة بريدة",
+    "gender": "ولد",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 3
   },
     {
     "university": "الجامعة السعودية الإلكترونية",
