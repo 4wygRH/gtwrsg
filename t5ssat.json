@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13 اغسطس - 10:26 م",
+  "lastUpdated": "14 اغسطس - 12:00 م",
   "universities": [
       {
     "university": "جامعة طيبة",
@@ -250,6 +250,176 @@
     "degree": "بكالوريوس",
     "minWeighted": 81,
     "seats": 2
+  },
+    {
+    "university": "جامعة الباحة",
+    "major": "الإدارة السياحية",
+    "city": "محافظة المندق",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 1
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "تصميم الأزياء",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "تقنية شبكات الحاسب",
+    "city": "محافظة الخفجي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 7
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "عام",
+    "city": "محافظة حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 58
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "ذكاء الاعمال وتحليل البيانات",
+    "city": "محافظة وادي الدواسر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "تقنية شبكات الحاسب",
+    "city": "محافظة الخفجي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 7
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "عام",
+    "city": "محافظة حفر الباطن",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 58
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "الدراسات الإنسانية",
+    "city": "محافظة النعيرية",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 4
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "تقنية شبكات الحاسب",
+    "city": "محافظة الخفجي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 7
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الإدارة السياحية",
+    "city": "محافظة المندق",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 1
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "تصميم الأزياء",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "إدارة الموارد البشرية",
+    "city": "محافظة الخفجي",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 78,
+    "seats": 6
+  },
+  {
+    "university": "جامعة حفر الباطن",
+    "major": "الدراسات الإنسانية",
+    "city": "محافظة النعيرية",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 78,
+    "seats": 4
+  },
+  {
+    "university": "جامعة الباحة",
+    "major": "الإدارة السياحية",
+    "city": "محافظة المندق",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 77,
+    "seats": 1
+  },
+  {
+    "university": "جامعة بيشة",
+    "major": "تصميم الأزياء",
+    "city": "محافظة بيشة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة الأمير سطام بن عبدالعزيز",
+    "major": "ذكاء الاعمال وتحليل البيانات",
+    "city": "محافظة وادي الدواسر",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 75,
+    "seats": 5
+  },
+  {
+    "university": "جامعة تبوك",
+    "major": "الموارد البشرية",
+    "city": "محافظة أملج",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 74,
+    "seats": 16
   },
   {
     "university": "جامعة الأمير سطام بن عبدالعزيز",
@@ -6134,6 +6304,238 @@
     "term": "الثاني",
     "minWeighted": 67,
     "seats": 44
+  },
+    {
+    "major": "تقنيات محاسبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية الدعم الفني للحاسب",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 18
+  },
+  {
+    "major": "تقنية الدعم الفني للحاسب",
+    "city": "محافظة الأحساء",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنية السلامة والصحة المهنية",
+    "city": "مدينة الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنية السلامة والصحة المهنية",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنية البرمجة وتطوير الويب",
+    "city": "الأحساء",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنية التجارة الإلكترونية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنيات محاسبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية التجارة الإلكترونية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنيات محاسبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية إدارة أنظمة الشبكات",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 92,
+    "seats": 10
+  },
+  {
+    "major": "تقنية الدعم الفني للحاسب",
+    "city": "الأحساء",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنية السلامة والصحة المهنية",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنية البرمجة وتطوير الويب",
+    "city": "الأحساء",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنيات محاسبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية الدعم الفني للحاسب",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 18
+  },
+  {
+    "major": "تقنية البرمجة وتطوير الويب",
+    "city": "محافظة الأحساء",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 4
+  },
+  {
+    "major": "تقنية التجارة الإلكترونية",
+    "city": "محافظة جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية الدعم الفني للحاسب",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 18
+  },
+  {
+    "major": "تقنيات الأعمال المكتبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنيات محاسبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية الدعم الفني للحاسب",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 18
+  },
+  {
+    "major": "تقنيات الأعمال المكتبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية التصميم الداخلي",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 16
+  },
+  {
+    "major": "تقنية التجارة الإلكترونية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنيات محاسبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية الوسائط المتعددة وتقنيات الويب",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 6
+  },
+  {
+    "major": "تقنيات الأعمال المكتبية",
+    "city": "جدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 8
+  },
+  {
+    "major": "تقنية التصميم الداخلي",
+    "city": "الرياض",
+    "gender": "بنت",
+    "term": "الأول",
+    "minWeighted": 91,
+    "seats": 16
   }
   ]
 }
