@@ -21,6 +21,96 @@
     "minWeighted": 60,
     "seats": 4
   },
+    {
+    "university": "جامعة القصيم",
+    "major": "التمريض",
+    "city": "مدينة بريدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 89,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "المختبرات الطبية",
+    "city": "مدينة بريدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "التغذية الإكلينيكية",
+    "city": "محافظة الرس",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 86,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "مساعد طبيب أسنان",
+    "city": "مدينة بريدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "التعقيم الطبي",
+    "city": "بريدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "دبلوم متوسط",
+    "minWeighted": 82,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "اقتصاد وإدارة",
+    "city": "الرس",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "المختبرات الطبية",
+    "city": "بريدة",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 88,
+    "seats": 1
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "التغذية الإكلينيكية",
+    "city": "الرس",
+    "gender": "بنت",
+    "term": "الأول",
+    "degree": "بكالوريوس",
+    "minWeighted": 86,
+    "seats": 2
+  },
+  {
+    "university": "جامعة القصيم",
+    "major": "اقتصاد وإدارة",
+    "city": "الرس",
+    "gender": "بنت",
+    "term": "الثاني",
+    "degree": "بكالوريوس",
+    "minWeighted": 81,
+    "seats": 2
+  },
   {
     "university": "جامعة الأمير سطام بن عبدالعزيز",
     "major": "الموارد البشرية",
