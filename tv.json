@@ -1,1 +1,42 @@
-
+[
+  {
+    "id": "ahsa-boys",
+    "city": "الأحساء",
+    "college": "الكلية التقنية للبنين بالأحساء",
+    "gender": "بنين",
+    "program": "الدبلوم الصباحي المجاني مع مكافأة شهرية",
+    "applyType": "onsite",
+    "collegeUrl": "https://tvtc.gov.sa/ar/Training-Units/Boys-Colleges/ALAHSATC/Pages/default.aspx",
+    "updatedAt": "1447/02/01"
+  },
+  {
+    "id": "buqaa-boys",
+    "city": "بقعاء",
+    "college": "الكلية التقنية ببقعاء للبنين",
+    "gender": "بنين",
+    "program": "القبول المباشر في التخصصات المتاحة للفصل التدريبي الأول للعام ١٤٤٨هـ",
+    "applyType": "link",
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeEpu52mrfBFBMDGxk5J7Yvr_DdLepKhXgisU5ZcHOiM5s1VQ/viewform",
+    "updatedAt": "1447/02/01"
+  },
+  {
+    "id": "ais-boys",
+    "city": "العيص",
+    "college": "الكلية التقنية للبنين بالعيص",
+    "gender": "بنين",
+    "program": "الدبلوم الصباحي المجاني مع مكافأة شهرية",
+    "applyType": "onsite",
+    "collegeUrl": "https://www.google.com/maps/search/?api=1&query=34HR%2BVMV%2C+Al+Ais+46954%2C+Saudi+Arabia",
+    "updatedAt": "1447/02/01"
+  },
+  {
+    "id": "jeddah-girls",
+    "city": "جدة",
+    "college": "الكلية التقنية للبنات بجدة",
+    "gender": "بنات",
+    "program": "الدبلوم الصباحي المجاني مع مكافأة شهرية",
+    "applyType": "link",
+    "applyUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=t2SN3tp5mEGAwnuENDSDT9mYy-CQSu1Jk2_nr0ZQsupUNFE2Mk9GMFFRT0pIWkNZQU5JUjFSU0NYSy4u",
+    "updatedAt": "1447/02/01"
+  }
+]
