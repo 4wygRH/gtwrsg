@@ -39,7 +39,6 @@
     "applyUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=t2SN3tp5mEGAwnuENDSDT9mYy-CQSu1Jk2_nr0ZQsupUNFE2Mk9GMFFRT0pIWkNZQU5JUjFSU0NYSy4u",
     "updatedAt": "1447/02/01"
   },
-  ,
   {
     "id": "unaizah-girls",
     "city": "عنيزة",
@@ -89,5 +88,45 @@
     "applyType": "onsite",
     "collegeUrl": "https://tvtc.gov.sa/ar/Pages/default1.aspx",
     "updatedAt": "1447/02/01"
-  }
+  },
+   {
+    "id": "ahsa-girls",
+    "city": "الأحساء",
+    "college": "الكلية التقنية للبنات بالأحساء",
+    "gender": "بنات",
+    "program": "مقاعد شاغرة في الدبلوم الصباحي",
+    "applyType": "onsite",
+    "collegeUrl": "https://tvtc.gov.sa/ar/Pages/default1.aspx",
+    "updatedAt": "1447/02/04"
+  },
+  {
+    "id": "shinan-boys",
+    "city": "الشنان",
+    "college": "الكلية التقنية للبنين بالشنان",
+    "gender": "بنين",
+    "program": "مقاعد شاغرة في الدبلوم الصباحي",
+    "applyType": "onsite",
+    "collegeUrl": "https://tvtc.gov.sa/ar/Pages/default1.aspx",
+    "updatedAt": "1447/02/04"
+  },
+  {
+    "id": "yanbu-girls",
+    "city": "ينبع",
+    "college": "الكلية التقنية للبنات بينبع",
+    "gender": "بنات",
+    "program": "مقاعد شاغرة في الدبلوم الصباحي",
+    "applyType": "link",
+    "applyUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=t2SN3tp5mEGAwnuENDSDTxdKcdszAUlNo_bZscdqdgNUN1paNE04OTdMMlRWVUpVNU9DUkpXMDc4RS4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl",
+    "updatedAt": "1447/02/04"
+  },
+  {
+  "id": "namas-boys",
+  "city": "النماص",
+  "college": "الكلية التقنية للبنين بالنماص",
+  "gender": "بنين",
+  "program": "مقاعد شاغرة في الدبلوم الصباحي المجاني مع مكافأة شهرية",
+  "applyType": "onsite",
+  "collegeUrl": "https://tvtc.gov.sa/ar/Pages/default1.aspx",
+  "updatedAt": "1448/03/05"
+}
 ]
